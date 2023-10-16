@@ -1,7 +1,7 @@
 ---
 title: RNASeq Data Model
 layout: template
-filename: index.md
+filename: index
 --- 
 
 ## Solving the problem for one model for RNASeq Data on Polly
